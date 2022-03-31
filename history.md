@@ -1,5 +1,8 @@
 # History
 
+### 3 - Implement Security
+* Load User by username - UserDetailsService
+
 ### 2 - Add Model, Repository and Service for User
 * Add User and Role.
 * Add repository for User.
