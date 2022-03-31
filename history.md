@@ -1,5 +1,8 @@
 # History
 
+### 4 - JWT Implementation
+* Install JWT Libraries
+
 ### 3 - Implement Security
 * Load User by username - UserDetailsService
 * Configure Web Security - Authentication Manager and HttpSecurity. 
