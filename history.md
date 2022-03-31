@@ -2,6 +2,7 @@
 
 ### 4 - JWT Implementation
 * Install JWT Libraries
+* JWT helper methods - token generation, validation.
 
 ### 3 - Implement Security
 * Load User by username - UserDetailsService
