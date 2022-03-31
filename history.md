@@ -2,6 +2,7 @@
 
 ### 3 - Implement Security
 * Load User by username - UserDetailsService
+* Configure Web Security - Authentication Manager and HttpSecurity. 
 
 ### 2 - Add Model, Repository and Service for User
 * Add User and Role.
