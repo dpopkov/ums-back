@@ -4,6 +4,7 @@
 * Authenticate User with Authentication Manager - AuthenticationService.
 * Endpoints for User sign-in, sign-up and refresh token - AuthenticationController.
 * Implement UserController.
+* Implement AdminController.
 
 ### 5 - Refresh Token
 * JWT Refresh Token Entity.
