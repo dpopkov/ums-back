@@ -1,5 +1,8 @@
 # History
 
+### 6 - User and Admin operations
+* Authenticate User with Authentication Manager - AuthenticationService.
+
 ### 5 - Refresh Token
 * JWT Refresh Token Entity.
 * Refresh Token repository ans service
