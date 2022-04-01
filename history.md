@@ -1,5 +1,9 @@
 # History
 
+### 5 - Refresh Token
+* JWT Refresh Token Entity.
+* Refresh Token repository ans service
+
 ### 4 - JWT Implementation
 * Install JWT Libraries
 * JWT helper methods - token generation, validation.
