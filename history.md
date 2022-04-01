@@ -2,6 +2,7 @@
 
 ### 6 - User and Admin operations
 * Authenticate User with Authentication Manager - AuthenticationService.
+* Endpoints for User sign-in, sign-up and refresh token - AuthenticationController.
 
 ### 5 - Refresh Token
 * JWT Refresh Token Entity.
